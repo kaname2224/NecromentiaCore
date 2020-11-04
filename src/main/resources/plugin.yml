@@ -1,0 +1,6 @@
+name: NecromentiaCore
+version: ${project.version}
+main: fr.worldbuilding.necromentiacore.NecromentiaCore
+api-version: 1.16
+authors: [ Maxime, Nicolas, Tom, Guilhem, Gaël, Jeremy]
+description: Wallah on a galéré sa mère a cause de Cédric
